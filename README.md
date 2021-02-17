@@ -6,4 +6,4 @@ How to run my server:
 
 
 Hey Yat, Hope this message finds you well.
-I spent a lot of time on my server. After loads of research and a bit of help on Appollo-Server. It ended up working on playground. Super proud. 
+I spent a lot of time on my server. After loads of research and a bit of help on Appollo-Server. It ended up working on playground.  
